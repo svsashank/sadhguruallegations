@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cases/vice-article.html
+
+Sitemap: https://sadhguruallegations.com/sitemap.xml
