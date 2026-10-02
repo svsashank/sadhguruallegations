@@ -27,3 +27,7 @@ footer p { margin: 0; }
   header { padding-left: 8vw; padding-right: 8vw; }
   main, footer { padding-left: 20px; padding-right: 20px; }
 }
+.tag a, footer a { color: inherit; }
+ul.related { padding-left: 1.1rem; margin: 0 0 14px; }
+ul.related li { margin: 0 0 6px; }
+h2[id] { scroll-margin-top: 12px; }

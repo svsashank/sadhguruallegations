@@ -1,5 +1,5 @@
-# sadhguruallegations review draft
+# sadhguruallegations.com
 
-Editor: Sashank. Not an Isha site. Do not point the custom domain here until the editorial pass is done.
+Source for sadhguruallegations.com. By Sashank, a volunteer with Isha Foundation. Not an official Isha site.
 
 GitHub Pages: Settings, Pages, Deploy from branch, main, / (root).
